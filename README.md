@@ -1,4 +1,4 @@
-# Mittayi
+# Mitaay
 
 Mittayi is a platform for selling authentic sweets, savouries, and snacks with a focus on quality and tradition. The platform supports various features including user authentication, product management, order processing, and payment handling.
 
