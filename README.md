@@ -23,9 +23,10 @@ Mittayi is a platform for selling authentic sweets, savouries, and snacks with a
 
 Clone the repository:
 
-	git clone https://github.com/username/Mittayi.git
+	git clone https://github.com/venkatmohanp/Mitaay.git
 
 Checkout to the development branch:
+
 	git checkout dev
 
 
